@@ -29,7 +29,4 @@ np.set_printoptions(suppress=True)
 
 print(ans)
 
-# 日期 1
-# 電話 2
-# 時間 2
-# 人數 3
+
